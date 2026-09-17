@@ -1,0 +1,1 @@
+"""Arithmetic application package."""
